@@ -1,0 +1,10 @@
+footer{
+    text-align: center;
+    padding: 30px 0px;
+    color: #fff;
+    font-weight: 300;
+}
+footer p a{
+    color: var(--purple);
+    transition: all .3s;
+}

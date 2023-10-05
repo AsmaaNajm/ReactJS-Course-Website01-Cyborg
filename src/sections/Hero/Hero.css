@@ -1,0 +1,28 @@
+.hero-main{
+    background: url('../../assets/images/banner-bg.jpg') no-repeat top right/cover;
+    background-color: var(--purple);
+    color: var(--white);
+    border-radius: var(--border-radius-primary);
+    padding: var( --padding-primary);
+}
+.hero-text{
+    max-width: 500px;
+}
+.hero-title{
+   font-size: 60px;
+    text-transform: uppercase;
+    border-radius: calc(var( --distance-primary)/4);
+    font-weight: 900;
+}
+
+.hero-title em{
+    font-style: normal;
+    color: var(--purple);
+}
+
+.hero-subtitle{
+ font-size: 20px;
+ color: var(--white);
+ font-weight: 400;
+ margin-bottom: 25px;
+}

@@ -1,0 +1,23 @@
+.button a{
+    font-size: 14px;
+    color: #fff;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+  }
+  
+  .button a:hover {
+    background-color: #fff;
+    color: #e75e8d;
+  }
+  .primary-btn a{
+    background-color: #e75e8d;
+  }
+  .secondary-btn a{
+    border: 1px solid #e75e8d;
+  }
