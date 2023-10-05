@@ -4,7 +4,7 @@ import './MostPopular.css'
 
 
 
-import MostPopularData from '../../Data/MostPopularData'
+import MostPopularData from '../../data/MostPopularData'
 
 import {Card, SectionHeader, SectionWrapper} from '../../components/index'
 

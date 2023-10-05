@@ -1,0 +1,3 @@
+.nav-item a:focus{
+    color: var(--purple);
+}

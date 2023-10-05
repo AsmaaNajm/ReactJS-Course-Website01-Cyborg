@@ -1,6 +1,6 @@
 import './GamingLibrary.css'
 
-import GamingLibraryData from '../..//Data/GamingLibraryData'
+import GamingLibraryData from '../..//data/GamingLibraryData'
 
 import {LibraryCard, SectionHeader, SectionWrapper} from '../../components/index'
 
