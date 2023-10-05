@@ -12,7 +12,7 @@ const GamingLibrary = () => {
   return (
     <>
     <SectionWrapper>
-       <SectionHeader>Gaming Library</SectionHeader>
+       <SectionHeader>Your Gaming Library</SectionHeader>
         <div className='gaming-library-cards'>
           {LibraryCards}
         </div>

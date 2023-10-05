@@ -3,7 +3,9 @@ import './SectionWrapper.css'
 const SectionWrapper = (props) => {
   return (
     <div className='section-wrapper'>
-        <h4>{props.children}</h4>
+      <div className='col-lg-12'>
+        {props.children}
+      </div>
     </div>
   )
 }

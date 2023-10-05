@@ -1,4 +1,4 @@
-import { MostPopular } from '../../sections'
+import { GamingLibrary } from '../../sections'
 import './Profile.css'
 
 
@@ -6,7 +6,7 @@ const Profile = () => {
   return (
     <>
       <h1>Profile Page</h1>
-      <MostPopular/>
+      <GamingLibrary/>
     </>  
   )
 }

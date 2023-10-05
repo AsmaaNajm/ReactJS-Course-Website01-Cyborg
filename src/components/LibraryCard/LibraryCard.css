@@ -1,5 +1,8 @@
 .library-gaming-card{
     flex: 1 1 100%;
+    /* border-bottom: 1px solid #27292a;
+    margin-bottom: 20px;
+    padding-bottom: 20px; */
     
 }
 .library-gaming-card ul{
