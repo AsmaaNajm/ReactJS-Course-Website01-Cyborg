@@ -18,3 +18,6 @@ export  {default as PrimaryButton } from './Buttons/Buttons'
 
 export  {SecondaryButton } from './Buttons/Buttons'
 
+export  {default as CardFeaturedGames} from'./CardFeaturedGames/CardFeaturedGames'
+
+export {default as OwlDemo} from './OwlDemo/OwlDemo'

@@ -1,0 +1,8 @@
+.card-featured-item-content{
+    display: flex;
+    justify-content: space-between;
+}
+.card-featured-item-title{
+    font-size: 14px;
+    line-height: 1.5rem;
+}
