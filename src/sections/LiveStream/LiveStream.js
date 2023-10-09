@@ -8,20 +8,22 @@ function LiveStream() {
   })
   return (
     <>
-      <SectionWrapper>
-        <SectionHeader>
-          <div className='live-stream-title'>
-            How To Start Your <em>LiveStream</em>
-          </div>
-        </SectionHeader>  
-        
-        <div className='row live-stream-cards'>
-          {liveStreamCards}
-          </div>
-          <div className='text-center'>
-            <PrimaryButton>Go To Profile</PrimaryButton>
+      <div className='wrapper-section'>
+        <div className='col-lg-12'>
+          <SectionHeader>
+            <div className='live-stream-title'>
+              How To Start Your <em>LiveStream</em>
             </div>
-      </SectionWrapper>
+          </SectionHeader>  
+          
+          <div className='row live-stream-cards'>
+            {liveStreamCards}
+            </div>
+            <div className='text-center'>
+              <PrimaryButton>Go To Profile</PrimaryButton>
+              </div>
+          </div>
+      </div>
 
     </>
 
