@@ -1,4 +1,4 @@
-import { FeaturedGames,LiveStream,TopDownload } from '../../sections'
+import { FeaturedGames,LiveStream,MostPopular,TopDownload } from '../../sections'
 import './Browse.css'
 
 function Browse() {
@@ -8,6 +8,7 @@ function Browse() {
         <FeaturedGames/>
         <TopDownload/>
         <LiveStream/>
+        <MostPopular/>
       </div>
     </>
   )

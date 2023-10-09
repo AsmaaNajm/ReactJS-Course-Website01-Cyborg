@@ -13,8 +13,7 @@ function TopDownload() {
     <div className='col-lg-4 col-sm-12'>
         <div className='top-download '>
            {TopDownloadCards}
-          <div className='button-all'> <PrimaryButton>All Games</PrimaryButton>
-          </div>
+           <PrimaryButton>All Games</PrimaryButton>
         </div>
     </div>
     

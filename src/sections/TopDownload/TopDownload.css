@@ -4,9 +4,11 @@
     padding-top: 30px;
     background-color: var(--color-darkest);
 }
-.button-all{
+
+.primary-btn{
     display: flex;
     flex: 1 1 100%;
     justify-content: center;
     flex-wrap: wrap;
+    padding-bottom: var(--padding-primary);
 }
