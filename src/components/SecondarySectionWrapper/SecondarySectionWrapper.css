@@ -1,0 +1,16 @@
+.secondary-section-wrapper{
+    border-radius: var(--border-radius-primary);
+    padding:calc(var( --padding-primary) /2);
+    margin-top: calc(var( --margin-primary) /5); 
+}
+.section-header h4{
+    font-size: 36px;
+    margin-left: calc(var( --margin-primary) /6);
+    font-weight: var(--font-weight-bold);
+}
+.card-wrapper{
+    /* background-color: var(--black-secondry); */
+    border-radius:calc( var(--border-radius-primary)/4);
+    padding: calc(var( --padding-primary)/4);
+    margin: calc(var( --margin-primary)/10);
+}

@@ -1,6 +1,7 @@
 import { LiveStreamCard, PrimaryButton, SectionHeader, SectionWrapper } from '../../components'
 import './LiveStream.css'
 import LiveStreamData from '../../data/LiveStreamData'
+import SecondarySectionWrapper from '../../components/SecondarySectionWrapper/SecondarySectionWrapper'
 
 function LiveStream() {
   const liveStreamCards=LiveStreamData.map( card=>{
@@ -8,8 +9,7 @@ function LiveStream() {
   })
   return (
     <>
-      <div className='wrapper-section'>
-        <div className='col-lg-12'>
+      <SecondarySectionWrapper>
           <SectionHeader>
             <div className='live-stream-title'>
               How To Start Your <em>LiveStream</em>
@@ -21,9 +21,8 @@ function LiveStream() {
             </div>
             <div className='text-center'>
               <PrimaryButton>Go To Profile</PrimaryButton>
-              </div>
-          </div>
-      </div>
+            </div>
+      </SecondarySectionWrapper>
 
     </>
 

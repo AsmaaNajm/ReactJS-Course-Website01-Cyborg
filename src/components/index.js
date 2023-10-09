@@ -25,3 +25,5 @@ export {default as OwlDemo} from './OwlDemo/OwlDemo'
 export {default as TopDownloadCard} from './TopDownloadCard/TopDownloadCard'
 
 export {default as LiveStreamCard} from './LiveStreamCard/LiveStreamCard'
+
+export {default as SecondarySectionWrapper} from './SecondarySectionWrapper/SecondarySectionWrapper'
