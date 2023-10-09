@@ -8,3 +8,4 @@ export  {default as TopDownload } from './TopDownload/TopDownload'
 
 export  {default as FeaturedGames } from './FeaturedGames/FeaturedGames'
 
+export {default as LiveStream } from './LiveStream/LiveStream'

@@ -1,0 +1,29 @@
+.live-stream-title{
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.live-stream-title em{
+    font-style: normal;
+    color: var(--purple);
+}
+.live-stream-card-title h5{
+    font-weight: 900;
+    padding-top: 15px;
+}
+
+.live-stream-card{
+    padding: 20px;
+    border-radius: calc(var(--border-radius-primary)/3);
+    border: 0.1px solid var(--purple-border);
+}
+.live-stream-card-content{
+    font-size: 12px;
+    line-height: 2em;
+}
+.live-stream-card-img img{
+    max-width: 60px;
+    border-radius: 50%;
+    padding-bottom: 5px;
+}

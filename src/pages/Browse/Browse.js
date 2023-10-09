@@ -1,4 +1,4 @@
-import { FeaturedGames,TopDownload } from '../../sections'
+import { FeaturedGames,LiveStream,TopDownload } from '../../sections'
 import './Browse.css'
 
 function Browse() {
@@ -7,6 +7,7 @@ function Browse() {
       <div className='row browse-section'> 
         <FeaturedGames/>
         <TopDownload/>
+        <LiveStream/>
       </div>
     </>
   )
