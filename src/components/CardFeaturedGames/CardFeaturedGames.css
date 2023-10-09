@@ -1,8 +1,18 @@
 .card-featured-item-content{
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 .card-featured-item-title{
     font-size: 14px;
     line-height: 1.5rem;
+}
+.featured-card-wrapper{
+    padding: 10px;
+}
+.card-featured-image{
+    border-radius: 20px;
+}
+.card-featured-item-content ul li{
+    display: inline-block;
 }

@@ -4,7 +4,7 @@ import './CardFeaturedGames.css'
 function CardFeaturedGames(props) {
   return (
     <div className='card-featured-item'>
-        <div className='card-wrapper'>
+        <div className='featured-card-wrapper'>
             <img className='card-featured-image' src={props.image} />
             <div className='card-featured-item-content'>
                 <h4 className='card-featured-item-title'>
@@ -12,12 +12,13 @@ function CardFeaturedGames(props) {
                     <span>{props.category}</span>
                 </h4>
                 <ul>
-                    <li>
+                    {/* <li> */}
                      <span style={{ "color" :"var(--color-icon-start)" }}><FaStar/></span>{props.rate}
-                    </li>
-                    <li>
+                    {/* </li>
+                    <li> */}
+                    <br/>
                     <span style={{ "color" :"var(--purple)" }}> <FaDownload/> </span>{props.download}
-                    </li>
+                    {/* </li> */}
                 </ul>
             </div>
         </div>

@@ -10,8 +10,8 @@ function FeaturedGames() {
     })
 
   return (
-    <div className='col-lg-8 featured-games'>
-          <OwlDemo >
+    <div className='col-lg-8 col-sm-12 featured-games'>
+          <OwlDemo>
             {FeaturedCards}
           </OwlDemo>
     </div>

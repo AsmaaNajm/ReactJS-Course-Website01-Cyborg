@@ -1,0 +1,28 @@
+.top-download-card{
+    flex: 1 1 100%;  
+    padding-bottom: 5px;  
+    padding: 10px;
+}
+
+.top-download-card ul li img{
+  max-width: 80px;
+  border-radius: 20px;
+  height: 25%;
+}
+li {
+  display: inline-block;
+  padding: 5px;
+}
+.top-download-card .button{
+  padding-left: 50px;
+}
+.top-download-card h4{
+   font-size: 1rem;
+   font-weight: bold;
+   /* padding-top: 50px; */
+
+}
+.top-download-card span{
+    font-size: .8rem;
+      
+}
