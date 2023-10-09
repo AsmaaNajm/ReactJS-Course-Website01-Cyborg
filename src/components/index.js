@@ -27,3 +27,5 @@ export {default as TopDownloadCard} from './TopDownloadCard/TopDownloadCard'
 export {default as LiveStreamCard} from './LiveStreamCard/LiveStreamCard'
 
 export {default as SecondarySectionWrapper} from './SecondarySectionWrapper/SecondarySectionWrapper'
+
+export {default as Image} from './Image/Image'
