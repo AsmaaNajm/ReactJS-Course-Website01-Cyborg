@@ -38,7 +38,7 @@ function Fortinite() {
                 <div className='row fortnite-text-section'>
                     <p>Cyborg Gaming is free HTML CSS website template provided by TemplateMo. This is Bootstrap v5.2.0 layout. You can make a small contribution via PayPal to info [at] templatemo.com and thank you for supporting. If you want to get the PSD source files, please contact us. Lorem ipsum dolor sit consectetur es dispic dipiscingei elit, sed doers eiusmod lisum hored tempor.</p>
                 </div>
-                <div className='row'>
+                <div className='row fortnite'>
                     <SecondaryButton>Download  Fortinite Now!</SecondaryButton>
                 </div>
                
