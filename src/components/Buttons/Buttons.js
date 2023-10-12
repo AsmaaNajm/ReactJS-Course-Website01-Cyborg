@@ -18,7 +18,7 @@ const PrimaryButton = (props) => {
 
 const SecondaryButton = (props) => {
   return (
-    <div className='button secondary-btn col-lg-2'>
+    <div className='button secondary-btn col-lg-12'>
       <a href='#'>
         {props.children}
       </a>

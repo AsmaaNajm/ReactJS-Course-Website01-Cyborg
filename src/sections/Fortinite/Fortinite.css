@@ -1,0 +1,57 @@
+.fortnite-first-section .horizontal-games-card{
+  background-color: var(--black-secondry);
+  padding: 20px;
+  border-radius: 15px;
+}
+.fortnite-first-section .horizontal-games-card span{ 
+  padding-left: 20px;
+}
+
+.secondary-btn a{
+  width: 100%;
+  text-align: center;
+  color: var(--purple);
+}
+.section-header {
+  text-align: center;
+  padding: 30px;
+}
+.fortnite-first-section{
+  padding-bottom: 30px;
+}
+.fortnite-card{
+  background-color: var(--black-secondry);
+  padding: 20px;
+  border-radius: 15px;
+}
+.fortnite-gallery-section{
+  padding-bottom: 30px;
+}
+.fortnite-text-section{
+  font-size: 14px;
+  line-height: 2rem;
+}
+.item{
+  position: relative;
+}
+
+.item img{
+  overflow: hidden;
+  float: left;
+}
+.item h5 {
+  display: inline-block;
+  font-size: 15px;
+  margin-bottom: 5px;
+  padding-top: 15px;
+}
+.item span {
+  color: #666;
+  font-size: 14px;
+  display: block;
+}
+.item ul {
+  position: absolute;
+  right: 0;
+  top: 15px;
+}

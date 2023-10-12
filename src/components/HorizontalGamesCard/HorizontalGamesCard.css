@@ -1,0 +1,33 @@
+.horizontal-games-card {
+    position: relative;
+}
+
+.horizontal-games-card img {
+    overflow: hidden;
+    float: left;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.horizontal-games-card h5 {
+    display: inline-block;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 30px;
+}
+
+.horizontal-games-card span {
+    color: #666;
+    font-size: 14px;
+    display: block;
+}
+
+.horizontal-games-card ul {
+    position: absolute;
+    right: 0;
+    padding: 10px;
+    top: 30px;
+}
+.horizontal-games-card ul li{
+    display: flex;
+}

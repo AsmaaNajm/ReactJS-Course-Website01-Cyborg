@@ -22,7 +22,9 @@ const LibraryCard = (props) => {
                 <li className='col-lg-2'>
                     <h4>Currently</h4> <span> {props.download}</span>
                 </li>
+                <li className='col-lg-2'>
                 <SecondaryButton>Download</SecondaryButton>
+                </li>
             </ul>
         </div>
     )

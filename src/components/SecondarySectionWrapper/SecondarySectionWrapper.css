@@ -1,6 +1,6 @@
 .secondary-section-wrapper{
     border-radius: var(--border-radius-primary);
-    padding:calc(var( --padding-primary) /2);
+    padding:calc(var( --padding-primary) /10);
     margin-top: calc(var( --margin-primary) /5); 
 }
 .section-header h4{

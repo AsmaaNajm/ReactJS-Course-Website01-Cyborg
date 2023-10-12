@@ -29,3 +29,7 @@ export {default as LiveStreamCard} from './LiveStreamCard/LiveStreamCard'
 export {default as SecondarySectionWrapper} from './SecondarySectionWrapper/SecondarySectionWrapper'
 
 export {default as Image} from './Image/Image'
+
+export {default as HorizontalGamesCard} from './HorizontalGamesCard/HorizontalGamesCard'
+
+
