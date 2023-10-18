@@ -5,7 +5,7 @@
     margin-top: calc(var( --margin-primary) /5); 
 }
 .section-header h4{
-    font-size: 36px;
+    font-size: 30px;
     margin-left: calc(var( --margin-primary) /6);
     font-weight: var(--font-weight-bold);
 }

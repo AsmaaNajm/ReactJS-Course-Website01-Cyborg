@@ -1,0 +1,77 @@
+[33mcommit aa6b598e6239ed94529199eb91fc1dd7ad46caaa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Thu Oct 12 18:37:13 2023 +0400
+
+    edit-button-style
+
+[33mcommit 76ccd1a35b50f493b0c8e6fad87169938669f8db[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Thu Oct 12 18:32:54 2023 +0400
+
+    add-related-games-section
+
+[33mcommit e99fbd030fe6da5a71949561fafa364477f90fb0[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Tue Oct 10 02:05:10 2023 +0400
+
+    add-banner-in-details-section
+
+[33mcommit fef62b596fc334b1ee6e428d323d5ea6cc405ced[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Tue Oct 10 00:10:16 2023 +0400
+
+    add-secondary-section-wrapper
+
+[33mcommit dcfc316086a8a2ecf1fbf2c1df7e4ad463b49283[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Tue Oct 10 00:03:37 2023 +0400
+
+    edit-browse-page
+
+[33mcommit 891cd171d4e3bf853d0182e0d68956a3f6d931cb[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Mon Oct 9 22:57:55 2023 +0400
+
+    edit-live-stream-style
+
+[33mcommit 11dda9a49bdcaa73999351372c1f03879146efaf[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Mon Oct 9 19:32:28 2023 +0400
+
+    add-how-to-start-live-stream
+
+[33mcommit 338d28a07f06a2e9bc7948fc6340feabccd0c144[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Mon Oct 9 13:56:42 2023 +0400
+
+    add-top-downloader
+
+[33mcommit 40b4e20348738f635c26dbec20e1dfa2c09f9fb6[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Fri Oct 6 21:31:53 2023 +0400
+
+    add-featured-gaming-section
+
+[33mcommit aa2113ffc0c2cf898a2ce5cbf460ee76f1a30376[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Fri Oct 6 02:45:06 2023 +0400
+
+    edit-website-responsive
+
+[33mcommit 964af6f70b9146ef49af91023e736f2f92e50300[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Fri Oct 6 01:14:45 2023 +0400
+
+    add-details-browse-streams-files
+
+[33mcommit ffb629eac911b21c36ae26d8b971a3a139a9602c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m)[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Thu Oct 5 17:35:10 2023 +0400
+
+    first-commit
+
+[33mcommit 7af868fcb3b1274642f0c53c2cf7cd555562ca57[m
+Author: AsmaaNajm <38820396+AsmaaNajm@users.noreply.github.com>
+Date:   Tue Oct 3 11:48:22 2023 +0400
+
+    Initialize project using Create React App

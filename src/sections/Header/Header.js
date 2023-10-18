@@ -34,7 +34,7 @@ const Header = (props) => {
               <Link to='/details' className="nav-link" >Details</Link>
             </NavItem>
             <NavItem>
-              <Link to='/srteams' className="nav-link" >Srteams</Link>
+              <Link to='/streams' className="nav-link" >Srteams</Link>
             </NavItem>
             <NavItem>
               <Link to='/profile' className="nav-link" >Profile</Link>
