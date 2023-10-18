@@ -12,17 +12,9 @@ function Fortinite() {
             </SectionHeader>
             <SectionWrapper>
                 <div className='row fortnite-first-section'>
-                    {/* <div className='col-lg-6'> */}
                         <HorizontalGamesCard  title="Fortnite" category="Sandbox" rate="4.8" download="2.4M" />
                         
                         <HorizontalGamesCard  title="Fortnite" category="Sandbox" rate="4.8" download="2.4M" />
-                       
-                    {/* </div> */}
-                    {/* <div className='col-lg-6 '>
-                       <div className='fortnite-card'>
-                        fgdfg
-                        </div>
-                    </div> */}
                 </div>
                 <div className='row fortnite-gallery-section'>
                     <div className='col-lg-4'>

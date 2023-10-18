@@ -2,7 +2,6 @@ import React from 'react'
 import './Card.css'
 
 import { FaStar,FaDownload } from "react-icons/fa";
-import { BsFillCloudArrowDownFill } from "react-icons/bs";
 
 const Card = (props) => {
   return (

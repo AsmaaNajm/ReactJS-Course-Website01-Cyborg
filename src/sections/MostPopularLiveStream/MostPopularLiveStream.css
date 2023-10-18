@@ -1,0 +1,10 @@
+
+.most-popular-live-stream-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.most-popular-live-stream-items .most-popular-item .card-wrapper{
+   background-color: var(--color-darkest);
+   width: 100%;
+}

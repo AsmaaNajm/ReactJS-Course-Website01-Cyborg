@@ -9,6 +9,7 @@ export {default as LiveStream } from './LiveStream/LiveStream'
 export {default as BannerDetails } from './BannerDetails/BannerDetails'
 export {default as Fortinite } from './Fortinite/Fortinite'
 export {default as OtherRelatedGames } from './OtherRelatedGames/OtherRelatedGames'
+export {default as MostPopularLiveStream } from './MostPopularLiveStream/MostPopularLiveStream'
 
 
 

@@ -1,13 +1,13 @@
-import { FeaturedGames, LiveStream, MostPopular, TopDownload } from '../../sections'
+import { FeaturedGames, LiveStream, MostPopular, MostPopularLiveStream, TopDownload } from '../../sections'
 import './Streams.css'
 
 const Streams = () => {
   return (
     <>
-      <div className='row browse-section'> 
+      <div className='row stream-section'> 
         <FeaturedGames title="Live Streams"/>
         <TopDownload title="Top Streamers"/>
-        <MostPopular/>
+        <MostPopularLiveStream/>
       </div>
     </>
   )
