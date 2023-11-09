@@ -1,4 +1,4 @@
-import { GamingLibrary } from '../../sections'
+import { GamingLibrary, ProfileDetails } from '../../sections'
 import './Profile.css'
 
 
@@ -6,6 +6,7 @@ const Profile = () => {
   return (
     <>
       <h1>Profile Page</h1>
+      <ProfileDetails/>
       <GamingLibrary/>
     </>  
   )
