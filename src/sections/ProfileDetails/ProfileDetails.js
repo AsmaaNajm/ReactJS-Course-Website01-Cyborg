@@ -11,9 +11,9 @@ function ProfileDetails() {
                 </div>
                 <div className='col-lg-4 main-profile'>
                     <PrimaryButton>Offline</PrimaryButton>
-                    <h1>Alan Smithee</h1>
-                    <h6>You Haven't Gone Live yet. Go Live By Touching The Button Below.</h6>
-                    <SecondaryButton>Start Live Stream</SecondaryButton>
+                    <h1 className='m-2'>Alan Smithee</h1>
+                    <h6 className='m-2'>You Haven't Gone Live yet. Go Live By Touching The Button Below.</h6>
+                    <SecondaryButton >Start Live Stream</SecondaryButton>
                 </div>
                 <div className='col-lg-4 main-profile '>
                     <div className='list'>

@@ -16,3 +16,9 @@
     border-bottom: 1px solid #757a7c;
     padding: calc(var(--padding-primary) /5);
 }
+.main-profile .primary-btn a{
+    margin: 5px;
+}
+.main-profile .secondary-btn a{
+    margin: 5px;
+}
