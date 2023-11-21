@@ -11,6 +11,8 @@ export {default as Fortinite } from './Fortinite/Fortinite'
 export {default as OtherRelatedGames } from './OtherRelatedGames/OtherRelatedGames'
 export {default as MostPopularLiveStream } from './MostPopularLiveStream/MostPopularLiveStream'
 export {default as ProfileDetails } from './ProfileDetails/ProfileDetails'
+export {default as UserInfo } from './UserInfo/UserInfo'
+
 
 
 

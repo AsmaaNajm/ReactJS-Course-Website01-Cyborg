@@ -32,4 +32,6 @@ export {default as Image} from './Image/Image'
 
 export {default as HorizontalGamesCard} from './HorizontalGamesCard/HorizontalGamesCard'
 
+export {default as UserGameCard} from './UserGameCard/UserGameCard'
+
 
